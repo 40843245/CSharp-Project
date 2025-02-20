@@ -21,6 +21,8 @@ When `<password>` is set, once one try to decompress the zip file,
 
 then it will pop up a dialog to enter password.
 
+<img width="309" alt="image" src="https://github.com/user-attachments/assets/9161c5de-92ab-4548-aca5-458867c8987a" />
+
 If your password matches `<password>`, then it will decompress the zip file.
 
 Otherwise, it will not.
